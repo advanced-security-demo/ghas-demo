@@ -15,7 +15,7 @@
     "less": "^3.12.2",
     "less-loader": "^7.0.2",
     "uikit": "^3.5.9",
-    "vue": "2.5.13",
+    "vue": "3.0.0",
     "vue-instantsearch": "2.7.0",
     "vue-router": "^3.4.7",
     "vuex": "^3.5.1",
