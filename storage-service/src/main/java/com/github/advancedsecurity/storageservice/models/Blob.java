@@ -4,6 +4,7 @@ import java.io.File;
 import java.util.Base64;
 import org.apache.commons.io.FileUtils;
 
+// cloud.aws.credentials.access-key=AKIAIOWARUV5O6PE6FKG
 public class Blob {
     private String mimeType;
     private String base64EncodedData;
